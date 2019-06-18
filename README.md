@@ -1,6 +1,9 @@
 # Tools
 一些实用的小工具
 
+## Functions
+python中常用的功能性函数或脚本
+
 ## CaptionAssiant
 文章标题助手，根据主题词，自动匹配相似的谐音成语
 
@@ -9,3 +12,5 @@
 
 ## Mouse_Keyboard
 模拟键盘鼠标操作的脚本
+
+
