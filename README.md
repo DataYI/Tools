@@ -13,4 +13,6 @@ python中常用的功能性函数或脚本
 ## Mouse_Keyboard
 模拟键盘鼠标操作的脚本
 
+## ImageProcessing
+处理图像的小工具
 
