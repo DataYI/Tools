@@ -16,3 +16,5 @@ python中常用的功能性函数或脚本
 ## ImageProcessing
 处理图像的小工具
 
+## LinkJump
+本地长链接跳转+文件共享
